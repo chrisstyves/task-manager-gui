@@ -1,0 +1,33 @@
+.AccountPanel {
+    padding: 0.25rem;
+    margin: 1rem;
+    border: 1px solid #888888;
+    max-width: 30rem;
+}
+
+.AccountHeader {
+    margin: 0.5rem;
+}
+
+.AvatarPanel {
+    padding: 0.25rem;
+    margin: 1rem;
+    border: 1px solid #888888;
+}
+
+.AccountField {
+    padding: 0.5rem;
+}
+
+.AccountButton {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.AccountNameControls {
+    margin: 1rem;
+}

@@ -1,0 +1,42 @@
+.Task {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    padding: 0.25rem;
+    margin: 0.25rem;
+    border: 1px solid #888888;
+    max-width: 30rem;
+}
+
+.TaskName {
+    cursor: pointer;
+    width: 90%;
+}
+
+.TaskNameCompleted {
+    cursor: pointer;
+    width: 90%;
+    color: #666666;
+    text-decoration: line-through;
+}
+
+.TaskCompleted {
+    margin: 0.5rem;
+}
+
+.DeleteButton {
+    vertical-align: right;
+}
+
+.EditForm {
+    display: inline;
+}
+
+.TaskInputButton {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}

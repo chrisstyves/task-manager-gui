@@ -1,0 +1,19 @@
+.TaskControls {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    margin: 1rem;
+}
+
+.TaskControlsField {
+    padding: 0.5rem;
+}
+
+.TaskControlsButton {
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
