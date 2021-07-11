@@ -1,3 +1,7 @@
+# Intro
+
+This is a front end for my Task Manager API. It is built with Create React App. You can play with a [production version of this app on heroku](https://cstyves-task-manager-gui.herokuapp.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
